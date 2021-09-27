@@ -1,1 +1,40 @@
 
+body{
+    height: 1300px;
+
+   background-image: radial-gradient(circle, DarkGoldenRod, aqua, DarkGoldenRod);
+}
+#MAIN-HEADING{
+  color:#B22222 ;
+}
+#MIH{
+  color: #008000;
+  text-align: center
+}
+.Main{
+    color: #008000;
+  text-align: center
+}
+.MIH2{
+  background-color: #DAA520;
+  color: #000000
+}
+.L1{
+  color: #DAA520;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.break{
+  height: 5px;
+        background-image: linear-gradient(to right, orange, yellow, orange);
+        border: none;
+}
+.RFAM{
+  color: #228B22;
+  text-align: center;
+}
